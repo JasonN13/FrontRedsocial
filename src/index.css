@@ -1,0 +1,24 @@
+body {
+  background-color: black;
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#Registro{
+  width: 100%;
+  margin-top: 100px;
+}
+
+#btn {
+  display: flex;
+  justify-content: center;
+  margin-right: 5px;
+  margin-left: 5px;
+  
+}
+
+#emailHelp{
+  color: white;
+}
